@@ -9,14 +9,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         test()
-        loginTest()
+        loginTestggg()
     }
 
     fun test() {
         print("hello world")
     }
 
-    fun loginTest() {
+    fun loginTestggg() {
         print("Login success!!!!!")
     }
 }
